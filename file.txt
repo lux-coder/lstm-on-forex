@@ -1,0 +1,1 @@
+If I knew about Git in time of coding neural network I would have used branches for saving different setups of network.
